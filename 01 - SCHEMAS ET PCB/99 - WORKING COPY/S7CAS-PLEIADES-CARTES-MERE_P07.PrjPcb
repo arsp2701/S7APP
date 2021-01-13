@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P07_TITLE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FAPMBNMV
+
+[Document2]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P07_CONNECTORS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -48,13 +65,13 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FAPMBNMV
+DocumentUniqueId=VBBSQJJD
 
-[Document2]
+[Document3]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P07_ASIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -65,13 +82,13 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FAPMBNMV
+DocumentUniqueId=WISGPJKN
 
-[Document3]
+[Document4]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P07.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document5]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P07.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,52 +123,52 @@ GenerateClassCluster=0
 DocumentUniqueId=GNYTCPOA
 
 [Parameter1]
-Name=Project_Date
-Value=20XX-XX-XX
+Name=Project_Stencil_Top_Thickness
+Value=0.1 MM
 
 [Parameter2]
-Name=Project_DateCode
-Value=DCXXXX
-
-[Parameter3]
-Name=Project_Designer1
-Value=Enter Name
-
-[Parameter4]
-Name=Project_Designer2
-Value=Enter Name
-
-[Parameter5]
-Name=Project_Designer3
-Value=Enter Name
-
-[Parameter6]
-Name=Project_Designer4
-Value=Enter Name
-
-[Parameter7]
-Name=Project_Global
-Value=Global Project
-
-[Parameter8]
-Name=Project_Group
-Value=Group Name
-
-[Parameter9]
-Name=Project_Name
-Value=Project Name
-
-[Parameter10]
-Name=Project_Revision
-Value=X.XXX
-
-[Parameter11]
 Name=Project_Stencil_Bot_Thickness
 Value=0.1 MM
 
+[Parameter3]
+Name=Project_Revision
+Value=X.XXX
+
+[Parameter4]
+Name=Project_Name
+Value=Project Name
+
+[Parameter5]
+Name=Project_Group
+Value=Group Name
+
+[Parameter6]
+Name=Project_Global
+Value=Global Project
+
+[Parameter7]
+Name=Project_Designer4
+Value=Enter Name
+
+[Parameter8]
+Name=Project_Designer3
+Value=Enter Name
+
+[Parameter9]
+Name=Project_Designer2
+Value=Louis-Daniel Gaulin
+
+[Parameter10]
+Name=Project_Designer1
+Value=Philippe Arsenault
+
+[Parameter11]
+Name=Project_DateCode
+Value=DCXXXX
+
 [Parameter12]
-Name=Project_Stencil_Top_Thickness
-Value=0.1 MM
+Name=Project_Date
+Value=2021-01-13
 
 [Configuration1]
 Name=Sources
