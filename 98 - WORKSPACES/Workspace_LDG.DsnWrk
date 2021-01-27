@@ -5,8 +5,8 @@ ProjectPath=..\99 - FICHIERS DEMARAGE\LIBRARY\S7CAS_LIB2021.LibPkg
 [Project2]
 ProjectPath=..\97 - LIBRAIRIE\S7CAS_P07.LibPkg
 [Project3]
-ProjectPath=..\01 - PLEIADES\01 - SCHEMAS ET PCB\99 - WORKING COPY\S7CAS-PLEIADES-CARTES-MERE_P07.PrjPcb
-[Project4]
 ProjectPath=..\..\..\..\..\..\Desktop\SwarmUS_ALTIUM\Electrical\01 - HIVE_SIGHT\01 - SCHEMAS ET PCB\99 - WORKING COPY\HIVE_SIGHT.PrjPcb
-[Project5]
+[Project4]
 ProjectPath=..\..\..\..\..\..\Desktop\SwarmUS_ALTIUM\Electrical\97 - NUCLEO_144_TEMPLATE\ALTIUM\NUCLEO_144.PrjPCB
+[Project5]
+ProjectPath=..\01 - PLEIADES\01 - SCHEMAS ET PCB\99 - WORKING COPY\S7CAS-PLEIADES-CARTES-MERE_P07.PrjPcb
