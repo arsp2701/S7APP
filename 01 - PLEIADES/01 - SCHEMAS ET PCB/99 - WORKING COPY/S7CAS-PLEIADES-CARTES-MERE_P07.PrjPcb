@@ -1430,6 +1430,7 @@ PartTypes=0
 Net1=NetName=AGND|NetColor=$0000BE00
 Net2=NetName=GND|NetColor=$006EFF6E
 Net3=NetName=GND_ETH|NetColor=$005C8517
+Net4=NetName=GND_USB|NetColor=$000DC804
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
