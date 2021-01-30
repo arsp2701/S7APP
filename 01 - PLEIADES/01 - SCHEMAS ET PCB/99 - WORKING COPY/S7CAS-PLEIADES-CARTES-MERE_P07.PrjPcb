@@ -1427,10 +1427,18 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=AGND|NetColor=$0000BE00
-Net2=NetName=GND|NetColor=$006EFF6E
-Net3=NetName=GND_ETH|NetColor=$005C8517
-Net4=NetName=GND_USB|NetColor=$000DC804
+Net1=NetName=1V2|NetColor=$00B310F0
+Net2=NetName=1V5D|NetColor=$002091E0
+Net3=NetName=1V8A|NetColor=$001AE6E3
+Net4=NetName=1V8D|NetColor=$001BCBE5
+Net5=NetName=3V3A|NetColor=$001B67E5
+Net6=NetName=3V3D|NetColor=$000A68F6
+Net7=NetName=5V|NetColor=$000101FF
+Net8=NetName=-5V|NetColor=$005353F5
+Net9=NetName=AGND|NetColor=$0000BE00
+Net10=NetName=GND|NetColor=$006EFF6E
+Net11=NetName=GND_ETH|NetColor=$005C8517
+Net12=NetName=GND_USB|NetColor=$000DC804
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
