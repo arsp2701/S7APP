@@ -72,7 +72,24 @@ GenerateClassCluster=0
 DocumentUniqueId=FAPMBNMV
 
 [Document3]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P07_POWER.SchDoc
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P07_HIGH_POWER.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FAPMBNMV
+
+[Document4]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P07_LOW_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -87,23 +104,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLIDFYQY
-
-[Document4]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P07_NEG_POWER.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FRENGTRD
 
 [Document5]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P07_FPGA_0.SchDoc
@@ -1447,15 +1447,18 @@ PartTypes=0
 Net1=NetName=1V2|NetColor=$00B310F0
 Net2=NetName=1V5|NetColor=$0026A5DA
 Net3=NetName=1V8|NetColor=clYellow
-Net4=NetName=3V3A|NetColor=$001B67E5
-Net5=NetName=3V3D|NetColor=$000A68F6
-Net6=NetName=5V|NetColor=$000101FF
-Net7=NetName=-5V|NetColor=$005353F5
-Net8=NetName=AGND|NetColor=$0000BE00
-Net9=NetName=GND|NetColor=$006EFF6E
-Net10=NetName=GND_ETH|NetColor=$005C8517
-Net11=NetName=GND_USB|NetColor=$000DC804
-Net12=NetName=VOUT_C|NetColor=$00D51FE1
+Net4=NetName=24V|NetColor=$00A801FF
+Net5=NetName=3V3A|NetColor=$001B67E5
+Net6=NetName=3V3D|NetColor=$000A68F6
+Net7=NetName=5V|NetColor=$000101FF
+Net8=NetName=-5V|NetColor=$005353F5
+Net9=NetName=5V5|NetColor=$00EE12B7
+Net10=NetName=-6V|NetColor=$00F30D1E
+Net11=NetName=AGND|NetColor=$0000BE00
+Net12=NetName=GND|NetColor=$006EFF6E
+Net13=NetName=GND_ETH|NetColor=$005C8517
+Net14=NetName=GND_USB|NetColor=$000DC804
+Net15=NetName=VOUT_C|NetColor=$00F30D1E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
