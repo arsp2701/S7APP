@@ -12,3 +12,5 @@ ProjectPath=..\..\..\..\..\..\Desktop\SwarmUS_ALTIUM\Electrical\97 - NUCLEO_144_
 ProjectPath=..\01 - PLEIADES\01 - SCHEMAS ET PCB\99 - WORKING COPY\S7CAS-PLEIADES-CARTES-MERE_P07.PrjPcb
 [Project6]
 ProjectPath=..\..\..\..\..\..\Desktop\GRAMS\GRAMS-PCB\LabPETII\Scanner Commercial\Scanner Cerveau\10 - UHR GATING BOARD\01 - SCHEMAS ET PCB\03 - REV 1.00 (2020-09-25)\03 - SOURCE\UHR_GB.PrjPcb
+[Project7]
+ProjectPath=..\..\..\..\..\..\Desktop\SwarmUS_ALTIUM\Electrical\99 - SWARMUS_LIB\SWARMUS_LIB.LibPkg
