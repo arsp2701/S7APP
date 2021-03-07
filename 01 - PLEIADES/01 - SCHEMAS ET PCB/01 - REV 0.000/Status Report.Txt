@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:57:09 PM On 2021-03-07
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [S7CAS-PLEIADES-CARTES-MERE_P07.PrjPcb]
+   Generated File[//usherbrooke-my.sharepoint.com/personal/gaul2525_usherbrooke_ca/Documents/Uni/S7/APP1/S7APP/01 - PLEIADES/01 - SCHEMAS ET PCB/99 - WORKING COPY/Project Outputs for S7CAS-PLEIADES-CARTES-MERE_P07/REV_1.000_2021-03-07/01 - BOM/S7CAS-PLEIADES-CARTES-MERE_P07_Bill of Materials.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:57:19 PM On 2021-03-07

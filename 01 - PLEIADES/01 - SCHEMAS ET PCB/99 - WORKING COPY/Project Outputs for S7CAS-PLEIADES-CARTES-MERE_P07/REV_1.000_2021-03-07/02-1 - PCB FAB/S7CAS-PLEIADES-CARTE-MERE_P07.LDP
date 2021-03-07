@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\ldgau\OneDrive - USherbrooke\Uni\S7\APP1\S7APP\01 - PLEIADES\01 - SCHEMAS ET PCB\99 - WORKING COPY\S7CAS-PLEIADES-CARTE-MERE_P07.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=s7cas-pleiades-carte-mere_p07-roundholes.txt|DrillLayers=gtl,gp1,g1,gp2,gp3,gp4,gp5,gp6,gp7,gp8,gp9,g2,gp10,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=s7cas-pleiades-carte-mere_p07-slotholes.txt|DrillLayers=gtl,gp1,g1,gp2,gp3,gp4,gp5,gp6,gp7,gp8,gp9,g2,gp10,gbl

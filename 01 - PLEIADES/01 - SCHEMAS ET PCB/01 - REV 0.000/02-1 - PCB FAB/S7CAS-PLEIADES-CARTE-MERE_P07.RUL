@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\ldgau\OneDrive - USherbrooke\Uni\S7\APP1\S7APP\01 - PLEIADES\01 - SCHEMAS ET PCB\99 - WORKING COPY\S7CAS-PLEIADES-CARTE-MERE_P07.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=Width|RuleName=WIDTH_OTHERS|Scope=Board|Minimum=3.00
+RuleKind=Width|RuleName=WIDTH_SE_40|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=WIDTH_SE_50|Scope=Board|Minimum=4.50
+RuleKind=Clearance|RuleName=Clearance_global|Scope=Board|Minimum=3.00

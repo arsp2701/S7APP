@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: S7CAS-PLEIADES-CARTE-MERE_P07.PcbDoc   2021-03-07  3:56:53 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : S7CAS-PLEIADES-CARTE-MERE_P07-RoundHoles.TXT
+ASCII SlotHoles File : S7CAS-PLEIADES-CARTE-MERE_P07-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      6mil (0.152mm)                                            Round             580       PTH        0.00inch (0.00mm)
+T2      8mil (0.201mm)                                            Round             116       PTH        0.00inch (0.00mm)
+T3      10mil (0.254mm)                                           Round             39        PTH        0.00inch (0.00mm)
+T4      12mil (0.3mm)                                             Round             602       PTH        0.00inch (0.00mm)
+T5      12mil (0.305mm)                                           Round             9         PTH        0.00inch (0.00mm)
+T6      14mil (0.351mm)                                           Round             9         PTH        0.00inch (0.00mm)
+T7      20mil (0.5mm)                                             Slot              2         PTH        0.00inch (0.00mm)
+T8      22mil (0.551mm)                                           Slot              2         PTH        0.00inch (0.00mm)
+T9      35mil (0.889mm)                                           Round             12        PTH        0.00inch (0.00mm)
+T10     51mil (1.3mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T11     65mil (1.651mm)                                           Round             20        PTH        0.00inch (0.00mm)
+T12     73mil (1.854mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T13     118mil (3mm)                                              Round             2         PTH        0.00inch (0.00mm)
+T14     128mil (3.251mm)                                          Round             2         PTH        0.00inch (0.00mm)
+T15     130mil (3.299mm)                                          Round             4         PTH        0.00inch (0.00mm)
+T16     120mil (3.048mm)                                          Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1411
+
+Total Processing Time (hh:mm:ss) : 00:00:01
